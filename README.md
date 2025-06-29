@@ -26,7 +26,7 @@ This is where I post tools, bots, or random ideas I build — mostly using Termu
 ---
 
 ## 📫 Find Me
-[![YouTube](https://img.shields.io/badge/YouTube-AinxBOT-red?logo=youtube&logoColor=white)](https://youtube.com/@AinxBOT)
+[![YouTube](https://img.shields.io/badge/YouTube-Ainx-BOT-red?logo=youtube&logoColor=white)](https://youtube.com/@AinxBOT)
 [![GitHub](https://img.shields.io/badge/GitHub-AinxBOT-181717?logo=github)](https://github.com/AinxBOT)
 [![Telegram](https://img.shields.io/badge/Telegram-@AinxMOD-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AinxMOD)
 [![Facebook](https://img.shields.io/badge/Facebook-Riz-1877F2?logo=facebook&logoColor=white)](https://facebook.com/kuhakku36)
