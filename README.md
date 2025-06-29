@@ -25,10 +25,10 @@ This is where I post tools, bots, or random ideas I build — mostly using Termu
 
 ---
 
-## 📫 Find Me:
-- YouTube: [AinxBOT](https://youtube.com/@Ainx-BOT)
-- GitHub: [@AinxBOT](https://github.com/AinxBOT)
-- Telegram: [@FahmiApz](https://t.me/AinxMOD)
+## 📫 Find Me
+[![YouTube](https://img.shields.io/badge/YouTube-KuhakkuTermux-red?logo=youtube&logoColor=white)](https://youtube.com/@Ainx-BOT)
+[![GitHub](https://img.shields.io/badge/GitHub-AinxBOT-181717?logo=github)](https://github.com/AinxBOT)
+[![Telegram](https://img.shields.io/badge/Telegram-@AinxBOT-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AinxMOD)
 
 ---
 
